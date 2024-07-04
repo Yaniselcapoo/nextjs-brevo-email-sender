@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Escriba:
+```bash
+npm install
+# or
+npm i
+```
+Para instalar dependencias
+
+
 First, run the development server:
 
 ```bash
